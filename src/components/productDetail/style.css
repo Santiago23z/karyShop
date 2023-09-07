@@ -1,0 +1,7 @@
+aside { 
+    height: max-content;
+}
+
+.sectionOne > * {
+    padding: 10px;
+}
